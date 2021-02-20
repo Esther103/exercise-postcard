@@ -1,0 +1,37 @@
+body{
+    
+    background-color: coral;
+
+}
+
+.cuadrado {
+    background-color:firebrick;
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    left: 50%;
+    top: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    color: floralwhite;
+   
+}
+
+.izquierdo{
+    float: left;
+     font-family: Dancing+Script&display=swap;
+
+}
+.derecho{
+    float: right;
+
+}
+.inferior 
+{ 
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 400px;
+    width: 100%;
+    text-align: center;
+}
